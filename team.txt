@@ -1,3 +1,4 @@
-Leader : Arif Budianto
-Staff : Nur
+Leader : Nur
+Staff 1 : Arif
+Staff 2 : Budianto
 Done.
